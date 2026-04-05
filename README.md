@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raven Grande From BSIT-2C</h1>
-<h3 align="center">GoodDay my hobbies is working out and im interested on programming since this is the course ill take and my skills are Analytical Thinking and Problem-Solving.</h3>
+<h1 align="center">Raven Grande </h1>
+<h3 align="center">Hi 👋, I'm  Raven Grande From BSIT-2C GoodDay my hobbies is working out and im interested on programming since this is the course ill take and my skills are Analytical Thinking and Problem-Solving.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
